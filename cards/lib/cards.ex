@@ -15,4 +15,8 @@ defmodule Cards do
   def hello do
     :world
   end
+
+  def create_deck do
+  	["Ace", "Two", "Three"]
+  end
 end
