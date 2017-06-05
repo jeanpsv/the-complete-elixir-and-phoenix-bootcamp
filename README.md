@@ -4,3 +4,7 @@ https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/lear
 ```bash
 iex -S mix
 ```
+
+```bash
+mix phoenix.new project_name
+```
